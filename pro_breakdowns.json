@@ -1,0 +1,1745 @@
+{
+ "updated": "2026-11-11",
+ "note": "Five deciding or title-clinching MPL Season 18 games. Drafts, bans, sides, maps, durations, MVPs and VODs from Liquipedia; per-player stats and items from MLBBHub; play-by-play only where the official broadcast or a linked recap states it. Liquipedia does not record pick order, so none is claimed. Lanes follow Liquipedia hero order. moments[].vod_time_s are seconds into the official VOD, each tied to a speech-to-text line of the broadcast that states the play.",
+ "games": [
+  {
+   "id": "mplid18-R4M1-g7",
+   "league": "MPL Indonesia",
+   "season": 18,
+   "stage": "Grand Final",
+   "game": 7,
+   "date": "2026-11-08",
+   "series": "mplid18-R4M1",
+   "title": "Bigetron's back-to-back title in a 23-minute Game 7",
+   "summary": "Bigetron came back from 2-3 down and won the deciding game of the MPL ID Season 18 Grand Final against NAVI in 22:59. They won the early turtles, piled up a lead of about 14,000 gold, and finally broke a NAVI side built to win late.",
+   "teams": [
+    {
+     "name": "Natus Vincere",
+     "side": "blue",
+     "won": false,
+     "bans": [
+      "Fanny",
+      "Yu Zhong",
+      "Freya",
+      "Lesley",
+      "Clint"
+     ],
+     "picks": [
+      {
+       "hero": "Atlas",
+       "player": "Karss",
+       "lane": "EXP",
+       "k": 0,
+       "d": 1,
+       "a": 0,
+       "gold": 8402,
+       "hero_damage": 5317,
+       "damage_taken": 47892,
+       "turret_damage": 0,
+       "items": [
+        "Dreadnaught Armor",
+        "Rapid Boots",
+        "Ares Belt",
+        "Dominance Ice",
+        "Immortality",
+        "Radiant Armor"
+       ]
+      },
+      {
+       "hero": "Paquito",
+       "player": "Joshuaa",
+       "lane": "Jungle",
+       "k": 1,
+       "d": 5,
+       "a": 1,
+       "gold": 13528,
+       "hero_damage": 23363,
+       "damage_taken": 56670,
+       "turret_damage": 1583,
+       "items": [
+        "Malefic Roar",
+        "Antique Cuirass",
+        "Hunter Strike",
+        "War Axe",
+        "Queen's Wings"
+       ]
+      },
+      {
+       "hero": "Lylia",
+       "player": "Jiizee",
+       "lane": "Mid",
+       "k": 0,
+       "d": 0,
+       "a": 1,
+       "gold": 10953,
+       "hero_damage": 37444,
+       "damage_taken": 14977,
+       "turret_damage": 0,
+       "items": [
+        "Magic Boots",
+        "Wishing Lantern",
+        "Mystic Container",
+        "Divine Glaive",
+        "Glowing Wand",
+        "Blood Wings"
+       ]
+      },
+      {
+       "hero": "Obsidia",
+       "player": "Zeonn",
+       "lane": "Gold",
+       "k": 2,
+       "d": 3,
+       "a": 0,
+       "gold": 14481,
+       "hero_damage": 20893,
+       "damage_taken": 18762,
+       "turret_damage": 0,
+       "items": [
+        "Haas's Claws",
+        "Golden Staff",
+        "Wind of Nature",
+        "Corrosion Scythe",
+        "Demon Hunter Sword",
+        "Malefic Gun"
+       ]
+      },
+      {
+       "hero": "Carmilla",
+       "player": "Aprho",
+       "lane": "Roam",
+       "k": 0,
+       "d": 2,
+       "a": 3,
+       "gold": 9239,
+       "hero_damage": 8256,
+       "damage_taken": 71591,
+       "turret_damage": 0,
+       "items": [
+        "Ares Belt",
+        "Antique Cuirass",
+        "Vitality Crystal",
+        "Dominance Ice",
+        "Radiant Armor"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Bigetron by Vitality",
+     "side": "red",
+     "won": true,
+     "bans": [
+      "Kalea",
+      "Marcel",
+      "Masha",
+      "Belerick",
+      "Bruno"
+     ],
+     "picks": [
+      {
+       "hero": "Sora",
+       "player": "Shogun",
+       "lane": "EXP",
+       "k": 0,
+       "d": 2,
+       "a": 4,
+       "gold": 10944,
+       "hero_damage": 10422,
+       "damage_taken": 34701,
+       "turret_damage": 234,
+       "items": [
+        "Tough Boots",
+        "Antique Cuirass",
+        "War Axe",
+        "Chastise Pauldron",
+        "Silence Robe",
+        "Winter Crown"
+       ]
+      },
+      {
+       "hero": "Hirara",
+       "player": "Nnael",
+       "lane": "Jungle",
+       "k": 4,
+       "d": 0,
+       "a": 5,
+       "gold": 18082,
+       "hero_damage": 37221,
+       "damage_taken": 17489,
+       "turret_damage": 6448,
+       "items": [
+        "Immortality",
+        "Blade of Despair",
+        "Malefic Roar",
+        "Hunter Strike",
+        "War Axe",
+        "Brute Force Breastplate"
+       ]
+      },
+      {
+       "hero": "Zhuxin",
+       "player": "Morenooo",
+       "lane": "Mid",
+       "k": 4,
+       "d": 0,
+       "a": 4,
+       "gold": 13972,
+       "hero_damage": 28357,
+       "damage_taken": 23193,
+       "turret_damage": 488,
+       "items": [
+        "Sky Piercer",
+        "Chastise Pauldron",
+        "Clock of Destiny",
+        "Lightning Truncheon",
+        "Glowing Wand",
+        "Ice Queen Wand"
+       ]
+      },
+      {
+       "hero": "Chou",
+       "player": "EMANN",
+       "lane": "Gold",
+       "k": 2,
+       "d": 1,
+       "a": 4,
+       "gold": 15288,
+       "hero_damage": 21253,
+       "damage_taken": 34035,
+       "turret_damage": 14313,
+       "items": [
+        "Brute Force Breastplate",
+        "Immortality",
+        "Rose Gold Meteor",
+        "War Axe",
+        "Malefic Roar",
+        "Endless Battle"
+       ]
+      },
+      {
+       "hero": "Gloo",
+       "player": "Finn",
+       "lane": "Roam",
+       "k": 1,
+       "d": 0,
+       "a": 7,
+       "gold": 12348,
+       "hero_damage": 19777,
+       "damage_taken": 40364,
+       "turret_damage": 746,
+       "items": [
+        "Genius Wand",
+        "Oracle",
+        "Cursed Helmet",
+        "Glowing Wand",
+        "Immortality"
+       ]
+      }
+     ]
+    }
+   ],
+   "result": {
+    "winner": "Bigetron by Vitality",
+    "duration": "22:59",
+    "series_score": "4-3",
+    "series_winner": "Bigetron by Vitality",
+    "map": null,
+    "map_by": null,
+    "series_mvp": "Shogun"
+   },
+   "essay": {
+    "stakes": "This was the last game of MPL Indonesia Season 18. NAVI had beaten Team Liquid ID 3-2 in the upper bracket final and led this Grand Final 3-2 after five games. Bigetron by Vitality, the defending Season 17 champions, came up from the lower bracket, where they beat Team Liquid ID 4-3 the day before. They won Game 6 to force this decider. Both teams had already earned M8 World Championship spots as the two finalists, so the game was purely for the trophy. Bigetron were going for back-to-back titles.",
+    "draft": "NAVI were on blue side and Bigetron on red. Liquipedia gives five bans a side. NAVI banned Fanny, Yu Zhong, Freya, Lesley and Clint. Bigetron banned Kalea, Marcel, Masha, Belerick and Bruno. The NAVI bans went straight at what had hurt them in the series. Nnael's Fanny had won Game 6 almost on her own, and Yu Zhong and Clint were Bigetron's EXP and gold-lane answers from their lower-bracket run. On the broadcast the casters pointed out that NAVI kept banning Lesley and that Bigetron took Bruno off the board.\n\nNAVI's lineup was Karss on Atlas in the EXP lane, Joshuaa on Paquito in the jungle, Jiizee on Lylia in mid, Zeonn on Obsidia in the gold lane and Aprho on Carmilla at roam. Bigetron answered with Shogun on Sora, Nnael on Hirara, Morenooo on Zhuxin, EMANN on Chou and Finn on Gloo. Liquipedia lists heroes, not the order they were picked, so this breakdown does not claim a pick order. The casters said EMANN's Chou was certain to go to the gold lane, which is not a normal marksman pick.\n\nThe two drafts wanted different games. NAVI's was the slower one. Lylia and Obsidia are damage that grows with items, and Atlas and Carmilla both bring teamfight ultimates (Atlas's is Fatal Links). The plan was to survive the early game and win one big fight later. The esports.id recap describes NAVI's composition as designed for the late game. Bigetron drafted to make sure that late game never came. Hirara gave Nnael an aggressive jungler. Chou in the gold lane gave them a second hero who could leave lane, dive and kick a target out of position. Zhuxin and Gloo added control, and Sora gave Shogun a fighter who could brawl in every skirmish. Bigetron's win condition was to keep fighting over objectives while NAVI's carries were still short on items, and turn every won fight into turrets.",
+    "early": "The broadcast calls this map Revealing Wisps; Liquipedia leaves the map field empty for this game. The first big moment was the first turtle. According to the casters, NAVI's jungler was not there when it spawned, so NAVI could not contest it and Bigetron took it for free. Without their jungler's Retribution nearby, NAVI handed over the first objective of the game without a fight.\n\nEMANN's Chou then did what Bigetron drafted him for. Instead of staying in the gold lane like a marksman, he rotated, and a three-man Bigetron rotation caught Zeonn's Obsidia. That is the point of a melee gold laner: if the enemy carry is lane-bound and fragile, a Chou who can walk into the jungle and kick her into his team is a constant threat. Joshuaa's Paquito struggled from here on. The casters noted him dying again and again, and he finished the game 1/5/1, the most deaths of anyone on the map. Bigetron took the outer middle turret, invaded NAVI's purple buff, and the casters credited them with control of the turtles in the opening phase.",
+    "mid": "By the time the first Lord came up, the gold graph had swung hard. The casters read Bigetron's lead at around 7,300 and then 7,600 gold, and later around 10,000. Bigetron took the first Lord and pushed with it, but NAVI defended their base turrets. The casters reminded viewers that base turrets are protected until minute 12, which is why the first Lord push could not end the game even with the lead.\n\nThat is the uncomfortable middle of a game like this. Bigetron had everything except the win. NAVI's draft is built for exactly this: if they hold the high ground, every minute adds items to Lylia and Obsidia. The final numbers show how hard NAVI held on. Jiizee's Lylia ended with 37,444 hero damage and no deaths, the most damage of any player in the game, just above Nnael's 37,221. Aprho's Carmilla soaked 71,591 damage, also the most in the game.",
+    "late": "The game went to 22:59, long for a decider where one side led for most of it. The casters called the Lord taken by Bigetron at around the 18-minute mark the evolved Lord. Even that push only took down one base turret, so NAVI still had a chance to find the fight their draft was built for. They never got it. Medcom's recap says Bigetron won several important teamfights, secured the fourth Lord and used it for the final assault. The esports.id recap describes the Lord being pushed through the top lane and NAVI being unable to stop it. Medcom puts the end at 23:02; Liquipedia lists 22:59.\n\nThe stat lines show how the game was won. Bigetron finished with 11 kills to NAVI's 3, 70,634 gold to 56,603, and 22,229 turret damage to NAVI's 1,583. Nnael's Hirara went 4/0/5 with 18,082 gold, the most of anyone. His final build was Immortality, Blade of Despair, Malefic Roar, Hunter Strike, War Axe and Brute Force Breastplate. Morenooo's Zhuxin went 4/0/4 and Finn's Gloo 1/0/7, so three of Bigetron's five never died. EMANN's Chou dealt 14,313 turret damage, the most on either side. His build was Brute Force Breastplate, Immortality, Rose Gold Meteor, War Axe, Malefic Roar and Endless Battle, a damage build for a hero sent to take turrets. On NAVI, Zeonn's Obsidia had 14,481 gold and a full carry build, but only 20,893 hero damage. A late-game carry who can't reach the enemy, or is caught before the fight starts, can't carry. Shogun was named Grand Final MVP, and Bigetron kept their title.",
+    "lessons": [
+     "A late-game draft only works if the early game is close. NAVI's composition needed even objectives to reach its power spike. Losing the first turtle without a contest, because the jungler was elsewhere, gave Bigetron the tempo for the whole game. In ranked, if your team drafted for the late game, the first turtle and your carry's safety matter more than any early kill.",
+     "A gold laner who can roam is a draft weapon. EMANN's Chou left lane to catch Zeonn and then did the most turret damage of the game. If the enemy gold laner is a fragile marksman, a fighter or assassin in the gold lane can play the whole map instead of one lane.",
+     "Gold leads do not end games on their own. Bigetron led by about 10,000 gold and still needed an 18-minute evolved Lord and a fourth Lord to finish. Base turret protection until minute 12, plus a team that defends its high ground, buys time. Keep pressure on the side lanes and take Lords, and don't throw a lead by diving the base early.",
+     "A carry's damage only counts in the fights they reach. Lylia did the most damage in the game and still lost. If your carry is being caught before fights, play around their position first, and look for damage numbers second.",
+     "Ban to stop what the other team already showed. NAVI banned Fanny after she won Game 6, but Nnael switched to Hirara and still finished with the most gold in the game. Banning a hero does not ban the player, so in ranked, plan for the enemy jungler's second-best hero too."
+    ]
+   },
+   "sources": [
+    {
+     "label": "Liquipedia: MPL Indonesia Season 18 Playoffs (draft, bans, result, duration, VOD, Grand Final MVP)",
+     "url": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_18/Playoffs"
+    },
+    {
+     "label": "MLBBHub match page, NAVI vs BTR (per-player K/D/A, gold, damage, turret damage, final items)",
+     "url": "https://mlbbhub.com/mpl/id/match/1115"
+    },
+    {
+     "label": "Medcom: Hasil Grand Final MPL ID S18, BTR kalahkan NAVI 4-3, back-to-back champion",
+     "url": "https://www.medcom.id/teknologi/esports/ybJdgQwK-hasil-grand-final-mpl-id-s18-btr-kalahkan-navi-4-3-back-to-back-champion"
+    },
+    {
+     "label": "esports.id: Bigetron by Vitality juara MPL ID Season 18, kalahkan NAVI 4-3 di Grand Final",
+     "url": "https://www.esports.id/read/bigetron-by-vitality-juara-mpl-id-season-18-kalahkan-navi-4-3-di-grand-final-19893"
+    },
+    {
+     "label": "Official VOD, MPL Indonesia (Indonesian commentary): NAVI vs BTR, Grand Finals Game 7",
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs"
+    }
+   ],
+   "vod": {
+    "youtube_id": "q08dpTaaAVs",
+    "url": "https://www.youtube.com/watch?v=q08dpTaaAVs"
+   },
+   "moments": [
+    {
+     "section": "draft",
+     "label": "Bigetron ban Bruno; NAVI keep banning Lesley",
+     "vod_time_s": 218,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=218s"
+    },
+    {
+     "section": "early",
+     "label": "Bigetron take a turtle with no contest",
+     "vod_time_s": 825,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=825s"
+    },
+    {
+     "section": "early",
+     "label": "Outer middle turret, then the purple buff invade",
+     "vod_time_s": 871,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=871s"
+    },
+    {
+     "section": "mid",
+     "label": "First Lord push; base turrets protected until minute 12",
+     "vod_time_s": 1055,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=1055s"
+    },
+    {
+     "section": "mid",
+     "label": "Bigetron's lead at 7,300 gold",
+     "vod_time_s": 1072,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=1072s"
+    },
+    {
+     "section": "late",
+     "label": "The evolved Lord at minute 18",
+     "vod_time_s": 1484,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=1484s"
+    },
+    {
+     "section": "late",
+     "label": "The Lord pushes through the top lane",
+     "vod_time_s": 1740,
+     "url": "https://www.youtube.com/watch?v=q08dpTaaAVs&t=1740s"
+    }
+   ]
+  },
+  {
+   "id": "mplid18-R4M1-g6",
+   "league": "MPL Indonesia",
+   "season": 18,
+   "stage": "Grand Final",
+   "game": 6,
+   "date": "2026-11-08",
+   "series": "mplid18-R4M1",
+   "title": "Nnael's Fanny forces a Game 7",
+   "summary": "Facing elimination at 2-3, Bigetron banned the heroes that stop Fanny, gave Nnael the hero NAVI had been banning, and won in 13:58 with 11 kills to 2.",
+   "teams": [
+    {
+     "name": "Natus Vincere",
+     "side": "red",
+     "won": false,
+     "bans": [
+      "Masha",
+      "Yu Zhong",
+      "Freya",
+      "Lesley",
+      "Bruno"
+     ],
+     "picks": [
+      {
+       "hero": "Uranus",
+       "player": "Karss",
+       "lane": "EXP",
+       "k": 1,
+       "d": 1,
+       "a": 0,
+       "gold": 6724,
+       "hero_damage": 26453,
+       "damage_taken": 106941,
+       "turret_damage": 1925,
+       "items": [
+        "Steel Legplates",
+        "Rapid Boots",
+        "Antique Cuirass",
+        "Oracle",
+        "Ares Belt"
+       ]
+      },
+      {
+       "hero": "Nolan",
+       "player": "Joshuaa",
+       "lane": "Jungle",
+       "k": 0,
+       "d": 5,
+       "a": 0,
+       "gold": 7632,
+       "hero_damage": 15979,
+       "damage_taken": 34430,
+       "turret_damage": 0,
+       "items": [
+        "Azure Blade",
+        "Malefic Roar",
+        "Hunter Strike",
+        "Blade of the Heptaseas"
+       ]
+      },
+      {
+       "hero": "Zhuxin",
+       "player": "Jiizee",
+       "lane": "Mid",
+       "k": 0,
+       "d": 2,
+       "a": 0,
+       "gold": 6420,
+       "hero_damage": 13717,
+       "damage_taken": 40849,
+       "turret_damage": 1000,
+       "items": [
+        "Ares Belt",
+        "Elegant Gem",
+        "Rapid Boots",
+        "Glowing Wand",
+        "Ice Queen Wand"
+       ]
+      },
+      {
+       "hero": "Moskov",
+       "player": "Zeonn",
+       "lane": "Gold",
+       "k": 1,
+       "d": 1,
+       "a": 0,
+       "gold": 9538,
+       "hero_damage": 13898,
+       "damage_taken": 19924,
+       "turret_damage": 3072,
+       "items": [
+        "Warrior Boots",
+        "Golden Staff",
+        "Wind of Nature",
+        "Corrosion Scythe",
+        "Fury Hammer",
+        "Demon Hunter Sword"
+       ]
+      },
+      {
+       "hero": "Hilda",
+       "player": "Aprho",
+       "lane": "Roam",
+       "k": 0,
+       "d": 2,
+       "a": 1,
+       "gold": 5717,
+       "hero_damage": 9657,
+       "damage_taken": 68156,
+       "turret_damage": 1000,
+       "items": [
+        "Ares Belt",
+        "Antique Cuirass",
+        "Radiant Armor"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Bigetron by Vitality",
+     "side": "blue",
+     "won": true,
+     "bans": [
+      "Kalea",
+      "Paquito",
+      "Atlas",
+      "Badang",
+      "Khufra"
+     ],
+     "picks": [
+      {
+       "hero": "Sora",
+       "player": "Shogun",
+       "lane": "EXP",
+       "k": 2,
+       "d": 1,
+       "a": 3,
+       "gold": 7598,
+       "hero_damage": 26374,
+       "damage_taken": 45998,
+       "turret_damage": 3519,
+       "items": [
+        "Dreadnaught Armor",
+        "Tough Boots",
+        "War Axe",
+        "Chastise Pauldron",
+        "Silence Robe",
+        "Ares Belt"
+       ]
+      },
+      {
+       "hero": "Fanny",
+       "player": "Nnael",
+       "lane": "Jungle",
+       "k": 8,
+       "d": 0,
+       "a": 2,
+       "gold": 11181,
+       "hero_damage": 59852,
+       "damage_taken": 22229,
+       "turret_damage": 3157,
+       "items": [
+        "Malefic Roar",
+        "Fury Hammer",
+        "Blade of the Heptaseas",
+        "Rose Gold Meteor",
+        "Sea Halberd"
+       ]
+      },
+      {
+       "hero": "Yve",
+       "player": "Morenooo",
+       "lane": "Mid",
+       "k": 1,
+       "d": 0,
+       "a": 6,
+       "gold": 7966,
+       "hero_damage": 53388,
+       "damage_taken": 5481,
+       "turret_damage": 1354,
+       "items": [
+        "Divine Glaive",
+        "Hero's Ring",
+        "Rapid Boots",
+        "Glowing Wand",
+        "Expert Gloves",
+        "Wishing Lantern"
+       ]
+      },
+      {
+       "hero": "Brody",
+       "player": "EMANN",
+       "lane": "Gold",
+       "k": 0,
+       "d": 1,
+       "a": 3,
+       "gold": 9158,
+       "hero_damage": 27567,
+       "damage_taken": 20519,
+       "turret_damage": 30215,
+       "items": [
+        "Warrior Boots",
+        "Rose Gold Meteor",
+        "Malefic Gun",
+        "Blade of the Heptaseas",
+        "Wind of Nature"
+       ]
+      },
+      {
+       "hero": "Marcel",
+       "player": "Finn",
+       "lane": "Roam",
+       "k": 0,
+       "d": 0,
+       "a": 8,
+       "gold": 8007,
+       "hero_damage": 23195,
+       "damage_taken": 45783,
+       "turret_damage": 1138,
+       "items": [
+        "Ares Belt",
+        "Vitality Crystal",
+        "Thunder Belt",
+        "Dominance Ice",
+        "Flask of the Oasis"
+       ]
+      }
+     ]
+    }
+   ],
+   "result": {
+    "winner": "Bigetron by Vitality",
+    "duration": "13:58",
+    "series_score": "4-3",
+    "series_winner": "Bigetron by Vitality",
+    "map": null,
+    "map_by": null,
+    "series_mvp": "Shogun"
+   },
+   "essay": {
+    "stakes": "NAVI led the MPL ID Season 18 Grand Final 3-2 and needed one more win for the title. For Bigetron, the defending champions, losing this game meant losing the final. Both teams were already going to the M8 World Championship as finalists, so this game decided whether the trophy went to NAVI in six games or the series went to a Game 7.",
+    "draft": "Bigetron were on blue side and NAVI on red. NAVI banned Masha, Yu Zhong, Freya, Lesley and Bruno. Bigetron banned Kalea, Paquito, Atlas, Badang and Khufra. The headline is what NAVI did not ban. The casters noted that Fanny had been banned again and again against Nnael, and this time NAVI let her through. Bigetron's bans were the other half of that plan: the casters pointed out that Badang and Khufra, the heroes that stop Fanny, were both closed. Banning Paquito also took away NAVI's preferred jungle option, and the casters said that left Joshuaa on Nolan.\n\nBigetron played Shogun on Sora in the EXP lane, Nnael on Fanny in the jungle, Morenooo on Yve in mid, EMANN on Brody in the gold lane and Finn on Marcel at roam. NAVI played Karss on Uranus, Joshuaa on Nolan, Jiizee on Zhuxin, Zeonn on Moskov and Aprho on Hilda. Liquipedia lists the heroes but not the pick order.\n\nThe casters' reading of NAVI's draft was that it had little hard crowd control. It relied on Hilda and Uranus to start fights, with Moskov as the late-game carry and a plan to split the map four against one with Zeonn. That is a draft that needs time and space. Bigetron's draft was built around one hero. With the heroes that stop her banned and NAVI short on control, Nnael was free to take over. Yve and Brody gave Bigetron long-range damage and turret pressure behind her, and Finn's Marcel was there to protect her.",
+    "early": "The first blood showed why NAVI's draft was in trouble. Joshuaa's Nolan went into Bigetron's jungle, three Bigetron players collapsed on him, and the first kill went to Nnael. NAVI did win the early tempo in one place: Joshuaa took the first turtle quickly. Aprho's Hilda and Zeonn's Moskov also connected for a kill, the kind of play NAVI's draft wanted. But Nnael kept killing, including a solo kill, and Bigetron then stole the second turtle and killed Joshuaa with it. The outer middle turret fell. At that point the casters had Joshuaa at 0/4/0 and Nnael at 5/0/0, so the two junglers had gone in opposite directions.\n\nThis is the most important early pattern for a Fanny game. Every kill gives her more gold and level to get ahead, and an enemy jungler who keeps dying can't secure objectives against her. Joshuaa finished the game 0/5/0.",
+    "mid": "Bigetron took the first Lord with no contest from NAVI, as the casters described it. The first push knocked at NAVI's defences but NAVI held their base. Bigetron only had one lane pushed deep, so they still needed the inner turrets in the middle and top lanes. Meanwhile Finn's Marcel kept Nnael safe from Hilda, the one NAVI hero built to jump on her. The casters also noted that Nnael's Fanny had reached level 15, two levels above Joshuaa.\n\nNAVI's only way back was to drag the game late for Moskov. Zeonn's build shows he got there: Warrior Boots, Golden Staff, Wind of Nature, Corrosion Scythe, Fury Hammer and Demon Hunter Sword, the most gold on NAVI at 9,538. But a split-pushing marksman can't defend a base against five.",
+    "late": "The casters said the second Lord also went to Bigetron uncontested while NAVI were a player down. Nnael added Rose Gold Meteor to survive burst. Bigetron went up the high ground through the bottom lane, where a base turret was already down, and caught Zeonn. Medcom's recap says Bigetron played much more aggressively than NAVI in this game, kept NAVI on the defensive, and closed the game with a teamfight in NAVI's base. Medcom puts the end at 14:02; Liquipedia lists 13:58.\n\nThe final numbers are lopsided. Bigetron won kills 11 to 2, gold 43,910 to 36,031 and turret damage 39,383 to 6,997. Nnael went 8/0/2 with 59,852 hero damage, the most in the game, and was named the game's MVP by Medcom. His build was Malefic Roar, Fury Hammer, Blade of the Heptaseas, Rose Gold Meteor and Sea Halberd. Morenooo's Yve added 53,388 damage without dying. EMANN's Brody did 30,215 turret damage on his own, and Finn's Marcel went 0/0/8 while soaking 45,783 damage. On NAVI's side, Karss's Uranus soaked 106,941 damage, more than anyone, but that only bought time. The casters' summary was that NAVI had no answer to Fanny: Marcel opened space and Finn neutralised Hilda's aggression, and NAVI lacked heroes that could stop her.",
+    "lessons": [
+     "If you leave a comfort pick open, know exactly how you'll stop it. NAVI let Fanny through, but Bigetron had already banned Badang and Khufra. Opening a dangerous hero only works if you keep a counter for it.",
+     "Ban the counters to your own power pick. Bigetron's bans weren't aimed at NAVI's best heroes but at the heroes that could stop Fanny. In ranked draft, if you are last pick on an assassin, look at what's left that can catch you and ban it if you can.",
+     "A jungler losing their early fights loses the map. Joshuaa went 0/4/0 early and NAVI couldn't contest the second turtle or either Lord. If you're the jungler and you're behind, farm safely and give up the objective rather than dying for it.",
+     "Protect the carry, not the team. Finn's Marcel went 0/0/8 by staying with Nnael and blocking Hilda. A roamer who sticks to the snowballing hero is often worth more than one who starts every fight.",
+     "A split-push plan needs a team that can hold four against five. NAVI's 4-1 plan with Moskov left them defending without enough control. In ranked, only split push when the other four can safely hold the middle."
+    ]
+   },
+   "sources": [
+    {
+     "label": "Liquipedia: MPL Indonesia Season 18 Playoffs (draft, bans, result, duration, VOD)",
+     "url": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_18/Playoffs"
+    },
+    {
+     "label": "MLBBHub match page, NAVI vs BTR (per-player K/D/A, gold, damage, turret damage, final items)",
+     "url": "https://mlbbhub.com/mpl/id/match/1115"
+    },
+    {
+     "label": "Medcom: Hasil Grand Final MPL ID S18, BTR kalahkan NAVI 4-3, back-to-back champion",
+     "url": "https://www.medcom.id/teknologi/esports/ybJdgQwK-hasil-grand-final-mpl-id-s18-btr-kalahkan-navi-4-3-back-to-back-champion"
+    },
+    {
+     "label": "esports.id: Bigetron by Vitality juara MPL ID Season 18, kalahkan NAVI 4-3 di Grand Final",
+     "url": "https://www.esports.id/read/bigetron-by-vitality-juara-mpl-id-season-18-kalahkan-navi-4-3-di-grand-final-19893"
+    },
+    {
+     "label": "Official VOD, MPL Indonesia (Indonesian commentary): NAVI vs BTR, Grand Finals Game 6",
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA"
+    }
+   ],
+   "vod": {
+    "youtube_id": "OEmSJby8SEA",
+    "url": "https://www.youtube.com/watch?v=OEmSJby8SEA"
+   },
+   "moments": [
+    {
+     "section": "draft",
+     "label": "NAVI let Fanny through for Nnael",
+     "vod_time_s": 459,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=459s"
+    },
+    {
+     "section": "draft",
+     "label": "Why Fanny kept getting banned against Nnael",
+     "vod_time_s": 525,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=525s"
+    },
+    {
+     "section": "draft",
+     "label": "No Badang or Khufra to stop Fanny",
+     "vod_time_s": 772,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=772s"
+    },
+    {
+     "section": "early",
+     "label": "Joshuaa takes the first turtle",
+     "vod_time_s": 536,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=536s"
+    },
+    {
+     "section": "early",
+     "label": "Nnael's solo kill",
+     "vod_time_s": 714,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=714s"
+    },
+    {
+     "section": "early",
+     "label": "Bigetron steal the second turtle and kill Joshuaa",
+     "vod_time_s": 807,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=807s"
+    },
+    {
+     "section": "early",
+     "label": "Joshuaa 0/4/0, Nnael 5/0/0",
+     "vod_time_s": 921,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=921s"
+    },
+    {
+     "section": "mid",
+     "label": "First Lord for Bigetron",
+     "vod_time_s": 941,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=941s"
+    },
+    {
+     "section": "mid",
+     "label": "Nnael's Fanny reaches level 15",
+     "vod_time_s": 1078,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=1078s"
+    },
+    {
+     "section": "late",
+     "label": "Second Lord, uncontested",
+     "vod_time_s": 1139,
+     "url": "https://www.youtube.com/watch?v=OEmSJby8SEA&t=1139s"
+    }
+   ]
+  },
+  {
+   "id": "mplid18-R3M2-g7",
+   "league": "MPL Indonesia",
+   "season": 18,
+   "stage": "Lower bracket final",
+   "game": 7,
+   "date": "2026-11-07",
+   "series": "mplid18-R3M2",
+   "title": "Bigetron survive two lost Lords to reach the Grand Final",
+   "summary": "In the lower bracket final decider, Team Liquid ID won both early Lords and cut a 5,000-gold deficit, but Bigetron held their base, won the third Lord fight with a full wipe and finished in 17:40.",
+   "teams": [
+    {
+     "name": "Team Liquid ID",
+     "side": "red",
+     "won": false,
+     "bans": [
+      "Fanny",
+      "Nolan",
+      "Freya",
+      "Yve",
+      "Lylia"
+     ],
+     "picks": [
+      {
+       "hero": "Barats",
+       "player": "Aran",
+       "lane": "EXP",
+       "k": 0,
+       "d": 5,
+       "a": 4,
+       "gold": 7934,
+       "hero_damage": 18465,
+       "damage_taken": 143237,
+       "turret_damage": 0,
+       "items": [
+        "Ares Belt",
+        "Ares Belt",
+        "Silence Robe",
+        "Antique Cuirass",
+        "Rapid Boots",
+        "Radiant Armor"
+       ]
+      },
+      {
+       "hero": "Hirara",
+       "player": "Kevinn",
+       "lane": "Jungle",
+       "k": 1,
+       "d": 2,
+       "a": 3,
+       "gold": 12179,
+       "hero_damage": 46881,
+       "damage_taken": 46715,
+       "turret_damage": 1741,
+       "items": [
+        "Malefic Roar",
+        "Sea Halberd",
+        "Hunter Strike",
+        "War Axe",
+        "Rose Gold Meteor"
+       ]
+      },
+      {
+       "hero": "Rafaela",
+       "player": "Drichel",
+       "lane": "Mid",
+       "k": 3,
+       "d": 3,
+       "a": 2,
+       "gold": 8035,
+       "hero_damage": 19638,
+       "damage_taken": 43846,
+       "turret_damage": 1313,
+       "items": [
+        "Tough Boots",
+        "Hero's Ring",
+        "Healing Necklace",
+        "Flask of the Oasis",
+        "Enchanted Talisman",
+        "Glowing Wand"
+       ]
+      },
+      {
+       "hero": "Kimmy",
+       "player": "Keven",
+       "lane": "Gold",
+       "k": 1,
+       "d": 1,
+       "a": 4,
+       "gold": 11417,
+       "hero_damage": 54611,
+       "damage_taken": 38008,
+       "turret_damage": 8666,
+       "items": [
+        "Holy Crystal",
+        "Feather of Heaven",
+        "Blood Wings",
+        "Rapid Boots",
+        "Concentrated Energy",
+        "Wind of Nature"
+       ]
+      },
+      {
+       "hero": "Atlas",
+       "player": "Lyoni",
+       "lane": "Roam",
+       "k": 0,
+       "d": 6,
+       "a": 4,
+       "gold": 8704,
+       "hero_damage": 10053,
+       "damage_taken": 122204,
+       "turret_damage": 1000,
+       "items": [
+        "Dreadnaught Armor",
+        "Blade Armor",
+        "Silence Robe",
+        "Radiant Armor",
+        "Dominance Ice"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Bigetron by Vitality",
+     "side": "blue",
+     "won": true,
+     "bans": [
+      "Kalea",
+      "Marcel",
+      "Estes",
+      "Belerick",
+      "Alice"
+     ],
+     "picks": [
+      {
+       "hero": "Yu Zhong",
+       "player": "Shogun",
+       "lane": "EXP",
+       "k": 5,
+       "d": 2,
+       "a": 7,
+       "gold": 9025,
+       "hero_damage": 28507,
+       "damage_taken": 54121,
+       "turret_damage": 420,
+       "items": [
+        "Magic Blade",
+        "Magic Boots",
+        "War Axe",
+        "Hunter Strike",
+        "Queen's Wings"
+       ]
+      },
+      {
+       "hero": "Harley",
+       "player": "Nnael",
+       "lane": "Jungle",
+       "k": 2,
+       "d": 1,
+       "a": 11,
+       "gold": 12061,
+       "hero_damage": 54392,
+       "damage_taken": 15342,
+       "turret_damage": 7216,
+       "items": [
+        "Holy Crystal",
+        "Genius Wand",
+        "Divine Glaive",
+        "Lightning Truncheon",
+        "Magic Wand"
+       ]
+      },
+      {
+       "hero": "Novaria",
+       "player": "Morenooo",
+       "lane": "Mid",
+       "k": 1,
+       "d": 0,
+       "a": 16,
+       "gold": 9914,
+       "hero_damage": 52461,
+       "damage_taken": 4006,
+       "turret_damage": 1000,
+       "items": [
+        "Magic Boots",
+        "Mystery Codex",
+        "Divine Glaive",
+        "Glowing Wand",
+        "Lightning Truncheon",
+        "Wishing Lantern"
+       ]
+      },
+      {
+       "hero": "Clint",
+       "player": "EMANN",
+       "lane": "Gold",
+       "k": 6,
+       "d": 0,
+       "a": 5,
+       "gold": 12811,
+       "hero_damage": 35332,
+       "damage_taken": 14955,
+       "turret_damage": 15876,
+       "items": [
+        "Tough Boots",
+        "Malefic Gun",
+        "Blade of Despair",
+        "Berserker's Fury",
+        "Endless Battle",
+        "Rose Gold Meteor"
+       ]
+      },
+      {
+       "hero": "Masha",
+       "player": "Finn",
+       "lane": "Roam",
+       "k": 3,
+       "d": 2,
+       "a": 12,
+       "gold": 9874,
+       "hero_damage": 52538,
+       "damage_taken": 118099,
+       "turret_damage": 6136,
+       "items": [
+        "Knife",
+        "Guardian Helmet",
+        "Thunder Belt",
+        "Sea Halberd",
+        "Corrosion Scythe"
+       ]
+      }
+     ]
+    }
+   ],
+   "result": {
+    "winner": "Bigetron by Vitality",
+    "duration": "17:40",
+    "series_score": "4-3",
+    "series_winner": "Bigetron by Vitality",
+    "map": null,
+    "map_by": null,
+    "series_mvp": "Shogun"
+   },
+   "essay": {
+    "stakes": "This was the lower bracket final of the MPL Indonesia Season 18 playoffs, played on November 7, 2026, at Jatim Expo in Surabaya according to Pantau. The winner went to the Grand Final against NAVI and to the M8 World Championship in Istanbul. The loser was out. Bigetron had led the series 3-2 before Team Liquid ID won Game 6 to force this one. Medcom's recap of Game 6 says TLID took all three turtles and the first Lord there, and jungler Kevinn was MVP with 9 kills.",
+    "draft": "Team Liquid ID were on red side and Bigetron on blue. TLID banned Fanny, Nolan, Freya, Yve and Lylia. Bigetron banned Kalea, Marcel, Estes, Belerick and Alice. Medcom says the game was played on the Healing Turtle map.\n\nTLID played Aran on Barats in the EXP lane, Kevinn on Hirara in the jungle, Drichel on Rafaela in the mid slot, Keven on Kimmy in the gold lane and Lyoni on Atlas at roam. Liquipedia lists the heroes in that order, and only Lyoni's build carries the roam item, so Rafaela was in the mid slot rather than at roam. Bigetron played Shogun on Yu Zhong, Nnael on Harley, Morenooo on Novaria, EMANN on Clint and Finn on Masha. Liquipedia lists the heroes but not the pick order.\n\nThe casters' read of TLID's draft was a team that wanted to keep five players together and keep crashing into Bigetron, with Kevinn's Hirara moving fast across the map. Barats and Atlas were the two bodies in front. The casters singled out Barats' ultimate, Detona's Welcome, and said Kimmy needed that frontline to keep firing. Rafaela added healing and her passive revive. The casters also noted that the reviving support meant TLID's fights would last longer. Bigetron's plan, as the casters put it, was to look after Shogun's Yu Zhong. Around him, Harley and Novaria gave burst and long-range poke, Clint gave consistent gold-lane damage, and Masha was a roamer who could also take turrets.",
+    "early": "The game started carefully. Medcom says TLID won the first turtle at the cost of one player; on the broadcast, Aran went down and the turtle's gold went to Kevinn. Bigetron then won the second and third turtles with better coordination and pulled ahead in gold, kills and turrets, according to Medcom. The casters described one of these fights: Aran fell, Bigetron took a turret before the turtle was even taken, and Kevinn timed Hirara's Falling Maple to avoid Shogun's Petrify. The casters rated Bigetron as favourites for the turtles because their lineup didn't need a farming hero to take them.",
+    "mid": "TLID found their way back through the Lord. They took the top outer turret, set up first at the Lord pit, and Aran flickered onto Nnael to start the fight. TLID won it, and Kevinn took the Lord. The casters said Bigetron's 5,000-gold lead dropped to about 2,000. Medcom says TLID took both the first and the second Lord thanks to good setups, but Bigetron's defence held and stopped TLID from destroying their base.\n\nTLID also gave something back. The casters described Lyoni flickering in with Atlas's Fatal Links and dying with nothing to show for it. They put it down to adrenaline, saying the plan seemed to be for Atlas to go in first and be revived by Rafaela, but he went too far after his team had already pulled back. TLID controlled the jungle afterwards, while Bigetron still held around 2,000 gold.",
+    "late": "The casters called Morenooo's Novaria Bigetron's late-game insurance, a hero who could defend the high ground from long range. They also named Masha as a threat on any target once she completed Thunder Belt. In the build-up to the last fight, Lyoni was caught by Nnael's Deadly Magic, Harley's ultimate, and Aran had to fall back. In the final sequence the casters described Drichel's Rafaela being caught, and TLID dropping to two players.\n\nMedcom calls the third Lord the turning point. This time Bigetron had the better setup and won the teamfight, eliminating every TLID player. They took the Lord and pushed straight into the base. Medcom puts the end at 17:43; Liquipedia lists 17:40. Shogun was MVP with 5 kills and 7 assists, according to Medcom. MLBBHub shows the same 5/2/7.\n\nThe final numbers show how big the closing fights were. Bigetron finished with 17 kills to TLID's 5, 53,685 gold to 48,269, and 30,648 turret damage to 12,720. That's despite TLID winning both of the first two Lords. Finn's Masha soaked 118,099 damage and went 3/2/12. Morenooo's Novaria went 1/0/16. EMANN's Clint went 6/0/5 with 15,876 turret damage, and Nnael's Harley went 2/1/11. On TLID, Aran's Barats soaked 143,237 damage, the most in the game, but went 0/5/4. Lyoni died six times. Keven's Kimmy did the most hero damage in the game, 54,611.",
+    "lessons": [
+     "Two Lords are not a win if you can't break the base. TLID won both early Lords and Bigetron still held. A Lord push needs the right timing and enough of your team alive to finish. If the push stalls, back off with the gold you got instead of forcing one more dive.",
+     "Stay with your team even when you are behind. Lyoni's solo Flicker and Fatal Links turned a TLID advantage into a free kill for Bigetron. As a roamer or tank, go in when your team can follow, not when you see an opening.",
+     "Hold a long-range hero for high-ground defence. The casters named Morenooo's Novaria as Bigetron's late-game insurance. A mage or marksman who can clear waves and poke from behind the turrets makes it hard for the enemy to finish a Lord push.",
+     "The final Lord fight is about setup. Medcom credits Bigetron's better setup for the third Lord. Getting there first, with vision and your team grouped, decides a fight before the first skill is cast.",
+     "Kill the support who keeps the fight going. Rafaela's revive and heals made TLID's fights last longer. In ranked, focus or catch the healer first."
+    ]
+   },
+   "sources": [
+    {
+     "label": "Liquipedia: MPL Indonesia Season 18 Playoffs (draft, bans, result, duration, VOD)",
+     "url": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_18/Playoffs"
+    },
+    {
+     "label": "MLBBHub match page, TLID vs BTR (per-player K/D/A, gold, damage, turret damage, final items)",
+     "url": "https://mlbbhub.com/mpl/id/match/1114"
+    },
+    {
+     "label": "Medcom: Hasil playoff MPL ID S18, BTR kalahkan TLID 4-3, lolos ke Grand Final (map, turtles, Lords, MVP)",
+     "url": "https://www.medcom.id/teknologi/esports/Gbm0VqyN-hasil-playoff-mpl-id-s18-btr-kalahkan-tlid-4-3-lolos-ke-grand-final"
+    },
+    {
+     "label": "Pantau: Bigetron tumbangkan Team Liquid ID 4-3, lolos ke Grand Final MPL ID S18 dan M8 (venue, M8 ticket)",
+     "url": "https://www.pantau.com/hiburan/377723/bigetron-tumbangkan-team-liquid-id-4-3-lolos-ke-grand-final-mpl-id-s18-dan-m8"
+    },
+    {
+     "label": "Official VOD, MPL Indonesia (Indonesian commentary): TLID vs BTR, Playoffs Day 4 Game 7",
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc"
+    }
+   ],
+   "vod": {
+    "youtube_id": "ciIwPuxLIgc",
+    "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc"
+   },
+   "moments": [
+    {
+     "section": "draft",
+     "label": "Barats and Detona's Welcome",
+     "vod_time_s": 306,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=306s"
+    },
+    {
+     "section": "draft",
+     "label": "TLID's plan: stick together as five",
+     "vod_time_s": 412,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=412s"
+    },
+    {
+     "section": "draft",
+     "label": "Bigetron's plan: look after Shogun's Yu Zhong",
+     "vod_time_s": 422,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=422s"
+    },
+    {
+     "section": "early",
+     "label": "Why Bigetron were favoured for the turtles",
+     "vod_time_s": 686,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=686s"
+    },
+    {
+     "section": "early",
+     "label": "Aran falls; Falling Maple dodges Petrify",
+     "vod_time_s": 730,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=730s"
+    },
+    {
+     "section": "mid",
+     "label": "Aran flickers onto Nnael; TLID take the Lord",
+     "vod_time_s": 1045,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=1045s"
+    },
+    {
+     "section": "mid",
+     "label": "Bigetron's lead drops from 5,000 to 2,000",
+     "vod_time_s": 1078,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=1078s"
+    },
+    {
+     "section": "mid",
+     "label": "Lyoni's Flicker and Fatal Links",
+     "vod_time_s": 1136,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=1136s"
+    },
+    {
+     "section": "late",
+     "label": "Late-game insurance on both sides",
+     "vod_time_s": 1219,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=1219s"
+    },
+    {
+     "section": "late",
+     "label": "Drichel's Rafaela caught; TLID down to two",
+     "vod_time_s": 1351,
+     "url": "https://www.youtube.com/watch?v=ciIwPuxLIgc&t=1351s"
+    }
+   ]
+  },
+  {
+   "id": "mplph18-R4M1-g6",
+   "league": "MPL Philippines",
+   "season": 18,
+   "stage": "Grand Final",
+   "game": 6,
+   "date": "2026-10-25",
+   "series": "mplph18-R4M1",
+   "title": "Aurora close out their first MPL PH title in 11:41",
+   "summary": "Up 3-2 with Estes finally banned, Aurora picked the Golden Turret map, gave away turtles to take side turrets, fed the gold to Domeng's Clint and ended Game 6 of the Grand Final with 15 kills to 2.",
+   "teams": [
+    {
+     "name": "Team Falcons PH",
+     "side": "red",
+     "won": false,
+     "bans": [
+      "Freya",
+      "Masha",
+      "Estes",
+      "Arlott",
+      "Mathilda"
+     ],
+     "picks": [
+      {
+       "hero": "Kalea",
+       "player": "Flap",
+       "lane": "EXP",
+       "k": 0,
+       "d": 5,
+       "a": 1,
+       "gold": 4576,
+       "hero_damage": 13980,
+       "damage_taken": 88423,
+       "turret_damage": 0,
+       "items": [
+        "Tough Boots",
+        "Dreadnaught Armor",
+        "Chastise Pauldron",
+        "Ares Belt"
+       ]
+      },
+      {
+       "hero": "Hirara",
+       "player": "Kyle",
+       "lane": "Jungle",
+       "k": 0,
+       "d": 3,
+       "a": 2,
+       "gold": 6447,
+       "hero_damage": 12080,
+       "damage_taken": 35777,
+       "turret_damage": 0,
+       "items": [
+        "Hunter Strike",
+        "War Axe",
+        "Legion Sword"
+       ]
+      },
+      {
+       "hero": "Kimmy",
+       "player": "Hadji",
+       "lane": "Mid",
+       "k": 2,
+       "d": 2,
+       "a": 0,
+       "gold": 6072,
+       "hero_damage": 29358,
+       "damage_taken": 29106,
+       "turret_damage": 0,
+       "items": [
+        "Rapid Boots",
+        "Feather of Heaven",
+        "Glowing Wand",
+        "Magic Wand",
+        "Mystery Codex"
+       ]
+      },
+      {
+       "hero": "Miya",
+       "player": "SuperMarco",
+       "lane": "Gold",
+       "k": 0,
+       "d": 2,
+       "a": 0,
+       "gold": 7721,
+       "hero_damage": 20166,
+       "damage_taken": 26833,
+       "turret_damage": 7562,
+       "items": [
+        "Warrior Boots",
+        "Corrosion Scythe",
+        "Demon Hunter Sword",
+        "Golden Staff",
+        "Regular Spear",
+        "Vampire Mallet"
+       ]
+      },
+      {
+       "hero": "Marcel",
+       "player": "Owgwen",
+       "lane": "Roam",
+       "k": 0,
+       "d": 3,
+       "a": 2,
+       "gold": 5909,
+       "hero_damage": 21510,
+       "damage_taken": 57090,
+       "turret_damage": 0,
+       "items": [
+        "Thunder Belt",
+        "Dominance Ice",
+        "Dreadnaught Armor"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Aurora Gaming PH",
+     "side": "blue",
+     "won": true,
+     "bans": [
+      "Esmeralda",
+      "Paquito",
+      "Chou",
+      "Cici",
+      "Harith"
+     ],
+     "picks": [
+      {
+       "hero": "Barats",
+       "player": "Nathzz",
+       "lane": "EXP",
+       "k": 0,
+       "d": 2,
+       "a": 9,
+       "gold": 6520,
+       "hero_damage": 23845,
+       "damage_taken": 74388,
+       "turret_damage": 1214,
+       "items": [
+        "Rapid Boots",
+        "Chastise Pauldron",
+        "Radiant Armor",
+        "Ares Belt",
+        "Ares Belt"
+       ]
+      },
+      {
+       "hero": "Suyou",
+       "player": "Koyl",
+       "lane": "Jungle",
+       "k": 4,
+       "d": 0,
+       "a": 7,
+       "gold": 10837,
+       "hero_damage": 39686,
+       "damage_taken": 28805,
+       "turret_damage": 9423,
+       "items": [
+        "Hunter Strike",
+        "War Axe",
+        "Malefic Roar",
+        "Queen's Wings",
+        "Magic Blade"
+       ]
+      },
+      {
+       "hero": "Zhuxin",
+       "player": "Yue",
+       "lane": "Mid",
+       "k": 2,
+       "d": 0,
+       "a": 9,
+       "gold": 8063,
+       "hero_damage": 34014,
+       "damage_taken": 21758,
+       "turret_damage": 3202,
+       "items": [
+        "Elegant Gem",
+        "Rapid Boots",
+        "Glowing Wand",
+        "Ice Queen Wand",
+        "Blood Wings"
+       ]
+      },
+      {
+       "hero": "Clint",
+       "player": "Domeng",
+       "lane": "Gold",
+       "k": 9,
+       "d": 0,
+       "a": 3,
+       "gold": 10573,
+       "hero_damage": 41141,
+       "damage_taken": 11666,
+       "turret_damage": 38280,
+       "items": [
+        "Endless Battle",
+        "Warrior Boots",
+        "Sky Piercer",
+        "Blade of Despair",
+        "Malefic Gun",
+        "Dagger"
+       ]
+      },
+      {
+       "hero": "Atlas",
+       "player": "Light",
+       "lane": "Roam",
+       "k": 0,
+       "d": 0,
+       "a": 7,
+       "gold": 6747,
+       "hero_damage": 4205,
+       "damage_taken": 41453,
+       "turret_damage": 942,
+       "items": [
+        "Antique Cuirass",
+        "Radiant Armor",
+        "Ares Belt"
+       ]
+      }
+     ]
+    }
+   ],
+   "result": {
+    "winner": "Aurora Gaming PH",
+    "duration": "11:41",
+    "series_score": "4-2",
+    "series_winner": "Aurora Gaming PH",
+    "map": "Golden Turret",
+    "map_by": "Aurora Gaming PH",
+    "series_mvp": "Domeng"
+   },
+   "essay": {
+    "stakes": "This was Game 6 of the MPL Philippines Season 18 Grand Final, played on October 25, 2026, at the PhilSports Arena. GMA's recap calls Aurora Gaming the fourth seed and Team Falcons the second seed. Aurora had come up through the lower bracket and, the day before, ended Team Liquid PH's three-season reign in a Game 7. They were also the reigning world champions, and had lost two earlier MPL PH finals, in Seasons 14 and 16. Both finalists were already going to the M8 World Championship in Istanbul, so this game was only about the trophy.\n\nThe series had swung twice. Yue's Zhuxin went 6/1/7 to win Game 1 for Aurora. Falcons answered with SuperMarco's Claude in Game 2 and his Cici in Game 3 to lead 2-1. Then Aurora drafted Estes, in mid for Yue in Game 4 and at roam for Light in Game 5, where Light's Estes backed Domeng's Chou, and led 3-2. One more win gave Aurora their first MPL title. A loss meant a Game 7.",
+    "draft": "Aurora were on blue side and chose the map, Golden Turret. Liquipedia gives five bans a side. Aurora banned Esmeralda, Paquito, Chou, Cici and Harith. Falcons banned Freya, Masha, Estes, Arlott and Mathilda. GMA notes that Falcons finally banned Estes in this game after it won Aurora the two games before.\n\nAurora's own bans are the interesting half. Chou had just carried Game 5 for Domeng, and Cici had won Game 3 for SuperMarco. Before the draft the casters expected Falcons to ban Estes or Chou, and called it a surprising twist when Aurora banned Chou themselves. After Harith went too, they remarked that there was no Chou, Cici or Harith left: no strong fighter or flexible hero for Falcons to put in a side lane. Aurora's bans took away Falcons' best flex picks instead of protecting their own.\n\nAurora played Nathzz on Barats in the EXP lane, Koyl on Suyou in the jungle, Yue on Zhuxin in mid, Domeng on Clint in the gold lane and Light on Atlas at roam. Falcons played Flap on Kalea in the EXP lane, Kyle on Hirara in the jungle, Hadji on Kimmy in mid, SuperMarco on Miya in the gold lane and Owgwen on Marcel at roam. Liquipedia lists heroes, not the order they were picked, so this breakdown does not claim a pick order.\n\nThe casters read the two drafts as an early-game team against a late-game team. They favoured Aurora early because of the Zhuxin and Atlas teamfight. Falcons had no Estes but, in their words, superior healing, and the casters said Falcons' late game was stronger than Aurora's early game. The gold lane was Miya against Clint. The map mattered too: the casters said Golden Turret is a reason to take a strong lane marksman. Aurora picked the map and then put a lane-bully marksman in the gold lane.",
+    "early": "The casters said the first gank wasn't much: it hurt Nathzz, but Koyl was holding a stun. Aurora's lead started small. The casters read it at about 1,000 gold after an early turret, and pointed out that most of it was going to Domeng.\n\nThen came the decision that shaped the game. Instead of fighting Falcons for the turtle, Aurora shoved the side-lane turrets. The casters said Aurora were willingly giving the turtle and taking their first and second turrets on the side lanes instead. On Golden Turret, side-lane turrets are where a strong lane marksman cashes in, and Domeng finished with 38,280 turret damage, more than the next nine players combined (the other nine dealt 22,343 between them). MLBBHub has Falcons with two turtles to Aurora's one, and Aurora with eight turrets to Falcons' two. Aurora traded objectives they didn't need for the ones that open the map.",
+    "mid": "Domeng completed Sky Piercer, and the casters immediately expected a more aggressive Aurora. Soon after, a clash ended in a triple kill, which the casters said came right as Sky Piercer came online, and they called it a massive power spike. Falcons' own plan was visible in the casters' item check: they hoped SuperMarco's Miya could reach her third or fourth item, and said Flap's EXP-lane Kalea was not working for Falcons so far.\n\nThe kills were one-sided. Falcons finished with two kills, both by Hadji's Kimmy, and only Nathzz died on Aurora's side, twice. Koyl's Suyou went 4/0/7 with 10,837 gold, the most in the game, and Yue's Zhuxin 2/0/9. Flap's Kalea took 88,423 damage, the most of anyone, and died five times.",
+    "late": "Aurora took the first Lord, and the casters said Falcons had nothing left to do about it. Aurora marched it down the middle lane. Falcons got SuperMarco's three-item marksman core, which the casters called his trinity, but the casters pointed out the problem with their defence: holding a Lord push needs wave clear, and Kimmy and Miya are single-target damage, not the wave clear of a Yve, Novaria or Pharsa. Aurora didn't need to overextend.\n\nGMA's recap gives the finish: Domeng's Clint got a late double kill in the 11th minute, which led to the tower lock and the win. The game ended at 11:41. Aurora finished with 15 kills to 2, 42,740 gold to 30,725, eight turrets to two and the only Lord. Domeng went 9/0/3 with 41,141 hero damage, the most in the game, on Endless Battle, Warrior Boots, Sky Piercer, Blade of Despair, Malefic Gun and Dagger. Four of Aurora's five players never died. Liquipedia names Domeng the Grand Final MVP, and the series ended 4-2 for Aurora's first MPL PH title.",
+    "lessons": [
+     "Ban the enemy's flex, not only their best hero. Aurora banned Chou, Cici and Harith, heroes that had won games in the series or that Falcons could flex into a side lane. That left Falcons with Kalea in the EXP lane, which the casters said wasn't working. In ranked drafts, if you know the enemy's comfort or flex picks, a ban that removes their options can matter more than a ban on the strongest hero on paper.",
+     "Trade objectives on purpose. Aurora gave up turtles and took side turrets, and won by eight turrets to two. If your team has the stronger lane marksman or more turret damage, a free turtle for the enemy can be worth it when you take two turrets for it.",
+     "Feed the hero your draft is built around. The casters noted that most of Aurora's early gold went to Domeng, and his power spike at Sky Piercer turned into the fight that broke the game. In ranked, know which teammate's item timing your team is playing for, and give them the safe farm and turret gold.",
+     "Wave clear is a draft question. Falcons had two single-target damage heroes in mid and the gold lane and couldn't stop one Lord push. If your draft has no wave clear, you have to win the Lord fight itself, because you can't defend after losing it.",
+     "Draft late and you still have to survive the early game. The casters thought Falcons' late game was stronger, but they never reached it: the game ended before the 12-minute mark. A late-game composition only works if the first ten minutes stay close."
+    ]
+   },
+   "sources": [
+    {
+     "label": "Liquipedia: MPL Philippines Season 18 Playoffs (draft, bans, side, map and who chose it, result, duration, VOD, Grand Final MVP)",
+     "url": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_18/Playoffs"
+    },
+    {
+     "label": "MLBBHub match page, Team Falcons vs Aurora Gaming (per-player K/D/A, gold, damage, damage taken, turret damage, final items, team totals)",
+     "url": "https://mlbbhub.com/mpl/ph/match/flcn-rora-20261025"
+    },
+    {
+     "label": "GMA News: Aurora Gaming stuns Team Falcons to clinch first-ever MPL crown (seeds, series story, Estes in Games 4 and 5, Estes banned in Game 6, Domeng's double kill in the 11th minute)",
+     "url": "https://www.gmanetwork.com/news/sports/othersports/1007125/aurora-gaming-stuns-team-falcons-to-clinch-first-ever-mpl-crown/story/"
+    },
+    {
+     "label": "Official VOD, MPL Philippines (English and Filipino commentary): Team Falcons vs Aurora Gaming, Grand Finals Game 6",
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0"
+    }
+   ],
+   "vod": {
+    "youtube_id": "oo9FXRyllW0",
+    "url": "https://www.youtube.com/watch?v=oo9FXRyllW0"
+   },
+   "moments": [
+    {
+     "section": "draft",
+     "label": "Aurora ban Chou themselves",
+     "vod_time_s": 56,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=56s"
+    },
+    {
+     "section": "draft",
+     "label": "Casters on the Golden Turret map",
+     "vod_time_s": 283,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=283s"
+    },
+    {
+     "section": "draft",
+     "label": "No Chou, Cici or Harith left for Falcons",
+     "vod_time_s": 360,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=360s"
+    },
+    {
+     "section": "draft",
+     "label": "Aurora's early game against Falcons' healing",
+     "vod_time_s": 520,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=520s"
+    },
+    {
+     "section": "early",
+     "label": "The first gank on Nathzz",
+     "vod_time_s": 635,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=635s"
+    },
+    {
+     "section": "early",
+     "label": "1,000-gold lead, most of it going to Domeng",
+     "vod_time_s": 780,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=780s"
+    },
+    {
+     "section": "early",
+     "label": "Aurora give up the turtle",
+     "vod_time_s": 847,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=847s"
+    },
+    {
+     "section": "early",
+     "label": "Side turrets fall on Golden Turret",
+     "vod_time_s": 980,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=980s"
+    },
+    {
+     "section": "mid",
+     "label": "Domeng completes Sky Piercer",
+     "vod_time_s": 908,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=908s"
+    },
+    {
+     "section": "mid",
+     "label": "Falcons wait on SuperMarco's items",
+     "vod_time_s": 1022,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=1022s"
+    },
+    {
+     "section": "mid",
+     "label": "Triple kill right as Sky Piercer comes online",
+     "vod_time_s": 1109,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=1109s"
+    },
+    {
+     "section": "late",
+     "label": "Aurora take the first Lord",
+     "vod_time_s": 1265,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=1265s"
+    },
+    {
+     "section": "late",
+     "label": "No wave clear to stop the Lord push",
+     "vod_time_s": 1300,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=1300s"
+    },
+    {
+     "section": "late",
+     "label": "Aurora win their first MPL PH title",
+     "vod_time_s": 1389,
+     "url": "https://www.youtube.com/watch?v=oo9FXRyllW0&t=1389s"
+    }
+   ]
+  },
+  {
+   "id": "mplph18-R3M2-g7",
+   "league": "MPL Philippines",
+   "season": 18,
+   "stage": "Lower bracket final",
+   "game": 7,
+   "date": "2026-10-24",
+   "series": "mplph18-R3M2",
+   "title": "Aurora end Team Liquid's reign with an 8-8 Game 7",
+   "summary": "In the lower bracket final decider, Team Liquid PH led by about 4,000 gold, but Aurora took both Lords and won in 13:50 with an even 8-8 kill score, a place in the Grand Final and a ticket to M8.",
+   "teams": [
+    {
+     "name": "Team Liquid PH",
+     "side": "blue",
+     "won": false,
+     "bans": [
+      "Valentina",
+      "Esmeralda",
+      "Kalea",
+      "Hirara",
+      "Aulus"
+     ],
+     "picks": [
+      {
+       "hero": "Uranus",
+       "player": "Sanford",
+       "lane": "EXP",
+       "k": 1,
+       "d": 2,
+       "a": 4,
+       "gold": 6928,
+       "hero_damage": 39543,
+       "damage_taken": 136517,
+       "turret_damage": 1445,
+       "items": [
+        "Warrior Boots",
+        "Dominance Ice",
+        "Radiant Armor",
+        "Oracle"
+       ]
+      },
+      {
+       "hero": "Nolan",
+       "player": "KarlTzy",
+       "lane": "Jungle",
+       "k": 3,
+       "d": 2,
+       "a": 3,
+       "gold": 10605,
+       "hero_damage": 25971,
+       "damage_taken": 33368,
+       "turret_damage": 1749,
+       "items": [
+        "Hunter Strike",
+        "Malefic Roar",
+        "Blade of Despair",
+        "Fury Hammer",
+        "Magic Blade"
+       ]
+      },
+      {
+       "hero": "Lylia",
+       "player": "Sanji",
+       "lane": "Mid",
+       "k": 1,
+       "d": 2,
+       "a": 5,
+       "gold": 6828,
+       "hero_damage": 36971,
+       "damage_taken": 37864,
+       "turret_damage": 0,
+       "items": [
+        "Magic Boots",
+        "Glowing Wand",
+        "Lightning Truncheon",
+        "Magic Wand",
+        "Magic Wand"
+       ]
+      },
+      {
+       "hero": "Claude",
+       "player": "Teddy",
+       "lane": "Gold",
+       "k": 3,
+       "d": 1,
+       "a": 1,
+       "gold": 9225,
+       "hero_damage": 25223,
+       "damage_taken": 26768,
+       "turret_damage": 5250,
+       "items": [
+        "Tough Boots",
+        "Demon Hunter Sword",
+        "Golden Staff",
+        "Corrosion Scythe",
+        "Malefic Gun",
+        "Dagger"
+       ]
+      },
+      {
+       "hero": "Minotaur",
+       "player": "Jaypee",
+       "lane": "Roam",
+       "k": 0,
+       "d": 1,
+       "a": 5,
+       "gold": 6017,
+       "hero_damage": 11020,
+       "damage_taken": 72423,
+       "turret_damage": 0,
+       "items": [
+        "Radiant Armor",
+        "Steel Legplates",
+        "Flask of the Oasis",
+        "Ares Belt"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Aurora Gaming PH",
+     "side": "red",
+     "won": true,
+     "bans": [
+      "Masha",
+      "Paquito",
+      "Freya",
+      "Marcel",
+      "Cici"
+     ],
+     "picks": [
+      {
+       "hero": "Yu Zhong",
+       "player": "Nathzz",
+       "lane": "EXP",
+       "k": 3,
+       "d": 3,
+       "a": 3,
+       "gold": 7301,
+       "hero_damage": 48161,
+       "damage_taken": 71468,
+       "turret_damage": 3043,
+       "items": [
+        "War Axe",
+        "Magic Boots",
+        "Queen's Wings",
+        "Chastise Pauldron"
+       ]
+      },
+      {
+       "hero": "Suyou",
+       "player": "Koyl",
+       "lane": "Jungle",
+       "k": 3,
+       "d": 3,
+       "a": 4,
+       "gold": 9936,
+       "hero_damage": 37675,
+       "damage_taken": 28470,
+       "turret_damage": 8823,
+       "items": [
+        "Hunter Strike",
+        "War Axe",
+        "Malefic Roar",
+        "Queen's Wings"
+       ]
+      },
+      {
+       "hero": "Kimmy",
+       "player": "Yue",
+       "lane": "Mid",
+       "k": 0,
+       "d": 0,
+       "a": 6,
+       "gold": 8214,
+       "hero_damage": 47667,
+       "damage_taken": 21179,
+       "turret_damage": 4302,
+       "items": [
+        "Rapid Boots",
+        "Glowing Wand",
+        "Divine Glaive",
+        "Wind of Nature",
+        "Swift Crossbow",
+        "Book of Sages"
+       ]
+      },
+      {
+       "hero": "Harith",
+       "player": "Domeng",
+       "lane": "Gold",
+       "k": 0,
+       "d": 1,
+       "a": 6,
+       "gold": 9168,
+       "hero_damage": 40175,
+       "damage_taken": 38584,
+       "turret_damage": 13386,
+       "items": [
+        "Holy Crystal",
+        "Magic Boots",
+        "Starlium Scythe",
+        "Feather of Heaven",
+        "Magic Wand"
+       ]
+      },
+      {
+       "hero": "Atlas",
+       "player": "Light",
+       "lane": "Roam",
+       "k": 2,
+       "d": 1,
+       "a": 2,
+       "gold": 7857,
+       "hero_damage": 9584,
+       "damage_taken": 60105,
+       "turret_damage": 2154,
+       "items": [
+        "Antique Cuirass",
+        "Radiant Armor",
+        "Chastise Pauldron"
+       ]
+      }
+     ]
+    }
+   ],
+   "result": {
+    "winner": "Aurora Gaming PH",
+    "duration": "13:50",
+    "series_score": "4-3",
+    "series_winner": "Aurora Gaming PH",
+    "map": "Healing Turtle",
+    "map_by": "Team Liquid PH",
+    "series_mvp": "Nathzz"
+   },
+   "essay": {
+    "stakes": "This was Game 7 of the MPL Philippines Season 18 lower bracket final, played on October 24, 2026, at the PhilSports Arena. Team Liquid PH had won the last three MPL PH titles. The winner went to the Grand Final against Team Falcons and to the M8 World Championship in Istanbul, where Aurora would defend their world title. The loser was out of both. GMA's recap describes the series: Teddy's Harith and Freya put Liquid up 2-1, Light and Nathzz led Aurora to the next two games, including a Game 5 Aurora closed inside 16 minutes with a 15,000-gold lead, and Sanji's Zhuxin and Teddy's Harith won Game 6 to force the decider. (GMA's article gives the series score as 3-2; Liquipedia records it as 4-3, which this breakdown follows.)",
+    "draft": "Team Liquid PH were on blue side and chose the map, Healing Turtle. Liquid banned Valentina, Esmeralda, Kalea, Hirara and Aulus. Aurora banned Masha, Paquito, Freya, Marcel and Cici. The casters pointed out that Liquid's fourth ban took Hirara away from Koyl.\n\nLiquid played Sanford on Uranus in the EXP lane, KarlTzy on Nolan in the jungle, Sanji on Lylia in mid, Teddy on Claude in the gold lane and Jaypee on Minotaur at roam. Aurora played Nathzz on Yu Zhong in the EXP lane, Koyl on Suyou in the jungle, Yue on Kimmy in mid, Domeng on Harith in the gold lane and Light on Atlas at roam. Liquipedia doesn't record pick order. The casters called Nolan for KarlTzy Liquid's first pick and Suyou Aurora's last, but that comes from the broadcast, not a written source.\n\nThe casters said the two compositions were almost the same in shape: crowd control, assassination and damage. The difference was the damage type. Liquid's carry was a physical gold laner, Teddy's Claude, while Aurora went double magic with Yue's Kimmy and Domeng's Harith, plus Nathzz's Yu Zhong for fighter damage. Uranus and Minotaur gave Liquid two frontliners; Light's Atlas was Aurora's teamfight engage.",
+    "early": "Liquid started better. Sanford's Uranus was first to hit Koyl, KarlTzy picked up two kills, and the casters called it a disaster for Aurora before KarlTzy was finally taken down. Nathzz rushed War Axe on Yu Zhong and dove for Sanford, and the casters noted Sanford still had Purify for it.\n\nOn a Healing Turtle map Aurora held the turtles. The casters said Aurora weren't losing the turtle any more and that they had taken most of the healing turtles. MLBBHub has Aurora with two turtles to Liquid's one. But Liquid were winning the map. The casters warned that Aurora's middle was now open, which opens it up to invasions, and Liquid's lead was about 1,400 gold, then around 4,000, despite Aurora's turtles. At one turtle fight Sanford gave vision and used Uranus's ultimate, Consecration, while Teddy's Claude fought Aurora with Blazing Duet. GMA's numbers for the first 12 minutes: an 8-3 kill lead and a 2,300-gold lead for Liquid.",
+    "mid": "The swing came just before the first Lord. The casters called Light's long rotation spectacular, as Aurora went looking for Liquid's jungler. When Aurora saw KarlTzy in the top lane, they punished him, and without his Retribution nearby Liquid had no way to contest the Lord. Aurora took it, and the casters said Liquid's 4,000-gold lead was gone and Aurora kept coming back.\n\nFrom there it was even on items and decided by fights. The casters compared the two gold laners: Teddy's Claude with the area damage of Blazing Duet, and Domeng's Harith with Purify timing. Yue completed Wind of Nature, which the casters pointed out against Liquid's physical damage from Claude and Nolan, and Domeng built Holy Crystal. Liquid kept trying to break Aurora's middle turret.",
+    "late": "The second Lord decided the series. Aurora got to it first and, in the casters' words, it turned into a bloodbath that Aurora won. GMA describes the moment as a crucial steal by Koyl in the second Lord fight, followed by a wipeout. Aurora pushed and ended the game at 13:50.\n\nThe final numbers show how close it was. The kills finished 8-8. Aurora led 42,476 gold to 39,603, two Lords to none, two turtles to one and five turrets to four. Aurora dealt 183,262 damage to 138,728. Nathzz's Yu Zhong went 3/3/3 with 48,161 hero damage, the most in the game, just ahead of Yue's Kimmy at 47,667 with no deaths (0/0/6). Koyl's Suyou went 3/3/4, and ABS-CBN notes that Koyl and Nathzz had three kills each. Domeng's Harith went 0/1/6 with 13,386 turret damage, the most in the game, on Holy Crystal, Magic Boots, Starlium Scythe, Feather of Heaven and Magic Wand. For Liquid, KarlTzy's Nolan finished 3/2/3 with 10,605 gold, the most of anyone, and Sanford's Uranus took 136,517 damage. Liquipedia names Nathzz the series MVP. Aurora went to M8 and to the Grand Final, where they won the title the next day.",
+    "lessons": [
+     "Kills don't win games, objectives do. Liquid led 8-3 in kills and by 2,300 gold after 12 minutes, the kills ended even at 8-8, and Aurora won on two Lords and one more turret. In ranked, when you're behind on kills, keep playing for turtle, turret and Lord. A lead in kills only counts when it's turned into objectives.",
+     "The jungler's position is the Lord timer. Aurora caught KarlTzy in the top lane before the first Lord, and with no Retribution there Liquid couldn't contest it. Before every Lord in ranked, check where the enemy jungler was last seen, and as a jungler, don't be on the far side of the map when it spawns.",
+     "A roamer's rotation sets up the fight. Light's long rotation started the play that turned a 4,000-gold deficit into the first Lord. A roamer who arrives first on the side where the next objective is gives the team the numbers to fight there.",
+     "Build against the damage you face. Liquid's threats were physical, from Claude and Nolan, and Yue built Wind of Nature on Kimmy. Check the enemy's main damage source before your third and fourth item, not after the fight you lost.",
+     "Healing turtles still pay off when you're behind. Aurora took two of the three turtles while losing on gold and kept their fighters in the game until the Lord fights. In ranked, a turtle you can take safely is worth taking even when the gold graph says you're behind."
+    ]
+   },
+   "sources": [
+    {
+     "label": "Liquipedia: MPL Philippines Season 18 Playoffs (draft, bans, side, map and who chose it, result, duration, VOD, series MVP, 4-3 series score)",
+     "url": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_18/Playoffs"
+    },
+    {
+     "label": "MLBBHub match page, Team Liquid PH vs Aurora Gaming (per-player K/D/A, gold, damage, damage taken, turret damage, final items, team totals)",
+     "url": "https://mlbbhub.com/mpl/ph/match/tlph-rora-20261024"
+    },
+    {
+     "label": "GMA News: MPL PH: Aurora Gaming shuts door on Team Liquid's four-peat dream (series story, Liquid's 8-3 and 2,300-gold lead at 12 minutes, Koyl's steal in the second Lord fight; gives the series as 3-2)",
+     "url": "https://www.gmanetwork.com/news/sports/othersports/1007049/mpl-ph-aurora-gaming-shuts-door-on-team-liquid-s-four-peat-dream/story/"
+    },
+    {
+     "label": "ABS-CBN: Aurora outlasts TLPH in 7-game thriller to reach MPL PH grand finals, books M8 spot (Koyl and Nathzz three kills each, two Lords, towers 5-4, gold 42,476 to 39,603)",
+     "url": "https://www.abs-cbn.com/sports/esports/2026/10/25/aurora-outlasts-tlph-in-7-game-thriller-to-reach-mpl-ph-grand-finals-books-m8-spot-0018"
+    },
+    {
+     "label": "Official VOD, MPL Philippines (English and Filipino commentary): Team Liquid PH vs Aurora Gaming, Lower Bracket Final Game 7",
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA"
+    }
+   ],
+   "vod": {
+    "youtube_id": "j2ZmGmSUFGA",
+    "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA"
+   },
+   "moments": [
+    {
+     "section": "draft",
+     "label": "Liquid ban Hirara away from Koyl",
+     "vod_time_s": 195,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=195s"
+    },
+    {
+     "section": "draft",
+     "label": "Physical damage against double magic",
+     "vod_time_s": 413,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=413s"
+    },
+    {
+     "section": "early",
+     "label": "Nathzz's War Axe dive into Sanford's Purify",
+     "vod_time_s": 452,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=452s"
+    },
+    {
+     "section": "early",
+     "label": "Sanford hits Koyl first; KarlTzy's two kills",
+     "vod_time_s": 499,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=499s"
+    },
+    {
+     "section": "early",
+     "label": "Aurora stop losing turtles",
+     "vod_time_s": 554,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=554s"
+    },
+    {
+     "section": "early",
+     "label": "Aurora's open middle",
+     "vod_time_s": 670,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=670s"
+    },
+    {
+     "section": "early",
+     "label": "Sanford's Consecration at the turtle",
+     "vod_time_s": 775,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=775s"
+    },
+    {
+     "section": "early",
+     "label": "Liquid lead by 4,000 gold",
+     "vod_time_s": 874,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=874s"
+    },
+    {
+     "section": "mid",
+     "label": "Light's rotation before the first Lord",
+     "vod_time_s": 909,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=909s"
+    },
+    {
+     "section": "mid",
+     "label": "KarlTzy spotted in the top lane",
+     "vod_time_s": 957,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=957s"
+    },
+    {
+     "section": "mid",
+     "label": "Blazing Duet against Purify",
+     "vod_time_s": 1035,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=1035s"
+    },
+    {
+     "section": "mid",
+     "label": "Wind of Nature and Holy Crystal",
+     "vod_time_s": 1085,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=1085s"
+    },
+    {
+     "section": "late",
+     "label": "The second Lord bloodbath",
+     "vod_time_s": 1123,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=1123s"
+    },
+    {
+     "section": "late",
+     "label": "Aurora eliminate Team Liquid PH",
+     "vod_time_s": 1216,
+     "url": "https://www.youtube.com/watch?v=j2ZmGmSUFGA&t=1216s"
+    }
+   ]
+  }
+ ]
+}
